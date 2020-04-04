@@ -3,22 +3,16 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+* Create new project
 
-* Ruby version
+* Create articles table (like to be able to be ok without users and countries tables)
 
-* System dependencies
+* Install country gem (unless it's possible to use, just put a nationalities form)
 
-* Configuration
+* Fix routes
 
-* Database creation
+* Create articles controller
 
-* Database initialization
+* Create articles/view (with select-country)
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Make views clean like to be ok to see

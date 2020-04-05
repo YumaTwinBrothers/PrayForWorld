@@ -9,11 +9,11 @@ application up and running.
 
 * Install country_select gem (unless it's possible to use, just put a nationalities form) <~ done
 
-* Fix routes
+* Fix routes <~ done
 
 * Create article model (validates only need to be fixed)
 
-* Create articles controller
+* Create articles controller <~ done
 
 * Create articles/view (with select-country)
 

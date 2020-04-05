@@ -11,6 +11,8 @@ application up and running.
 
 * Fix routes
 
+* Create article model (validates only need to be fixed)
+
 * Create articles controller
 
 * Create articles/view (with select-country)

@@ -3,11 +3,11 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-* Create new project
+* Create new project <~ done
 
-* Create articles table (like to be able to be ok without users and countries tables)
+* Create articles table (like to be able to be ok without users and countries tables) <~ done
 
-* Install country gem (unless it's possible to use, just put a nationalities form)
+* Install country_select gem (unless it's possible to use, just put a nationalities form) <~ done
 
 * Fix routes
 

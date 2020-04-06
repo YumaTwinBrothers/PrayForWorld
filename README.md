@@ -11,10 +11,12 @@ application up and running.
 
 * Fix routes <~ done
 
-* Create article model (validates only need to be fixed)
+* Create article model (validates only need to be fixed) <~ done except country column
 
-* Create articles controller <~ done
+* Create articles controller <~ for Ajax
 
 * Create articles/view (with select-country)
 
 * Make views clean like to be ok to see
+
+* Edit repository name

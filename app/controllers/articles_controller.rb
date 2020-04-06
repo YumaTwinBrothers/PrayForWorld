@@ -6,11 +6,12 @@ class ArticlesController < ApplicationController
 
   def new
     @article = Article.new
+    # json
   end
 
-  def show
-    @article = Article.find(params[:id])
-  end
+  # def show
+  #   @article = Article.find(params[:id])
+  # end
 
   def create
     @article = Article.new(article_params)
@@ -20,6 +21,7 @@ class ArticlesController < ApplicationController
     else
       render 'new'
     end
+    # json
   end
 
   private
@@ -29,3 +31,6 @@ class ArticlesController < ApplicationController
   end
 
 end
+
+# 恐らくjson形式でブラウザに返す
+# Udemy教材(message me)とWEB上の情報で解決する

@@ -34,3 +34,4 @@ end
 
 # 恐らくjson形式でブラウザに返す
 # Udemy教材(message me)とWEB上の情報で解決する
+# 多分message_meと全く同じ機能でいいかな（ユーザーなしversion?かな）
